@@ -30,3 +30,7 @@ La colonne *legend* est optionnelle
 | ... | ... |
 | [https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9818982g/f10/235,566,711,1170/full/0/native.jpg](https://gallica.bnf.fr/iiif/ark:/12148/bpt6k9818982g/f10/235,566,711,1170/full/0/native.jpg) | Légende de l'image 250 |
 
+## Dataset de test (EyCon project):
+| Fichier d'indexs | Dossier d'images |
+| --- | --- |
+| [eycon.smantic](https://drive.google.com/file/d/1KvUDA5HsD4cWNz5fpZsMjrMpadfcOlsZ/view?usp=sharing)  | [Images EyCon](https://drive.google.com/drive/folders/1atmTvp8_G_uhUzXxVcTjsty_TPi2XPmc?usp=sharing) |
